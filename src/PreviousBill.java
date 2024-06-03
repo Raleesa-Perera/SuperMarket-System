@@ -1,3 +1,4 @@
+// when we have previous customers.. we use this
 import java.io.*;
 import java.util.Scanner;
 
