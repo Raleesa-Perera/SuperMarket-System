@@ -1,3 +1,4 @@
+// design the bill structure 
 import java.io.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
